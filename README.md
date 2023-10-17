@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/gallardoagustin/" target="_blank">
     <img align="center" alt="Agustin Gallardo | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="agustin.gallardo423@gmail.com" >
+  <a href="mailto:agustin.gallardo423@gmail.com" >
     <img align="center" alt="Agustin Gallardo | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <p>
