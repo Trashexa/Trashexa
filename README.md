@@ -6,8 +6,10 @@
 ## I'm Agustin Gallardo.
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Cibersegurity in university SIGLO XXI.
+- 🤔 Exploring new technologies and developing programming insights.
+- 🎓 Studying Cybersecurity at SIGLO XXI University.
+- 💻 I am a self-learner.
+- 📝 I am Oracle certified.
 
 
 <br>
